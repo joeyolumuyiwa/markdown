@@ -8,6 +8,7 @@
 
 ## Project Content
 - [Supported OS](#Supported-System)
+- [Useful Resources](#resources)
 
 This is just a normal **bold text**
 
@@ -69,6 +70,11 @@ This Project supports :
 - [x] Windows
 - [x] Linux
 - [ ] iOS
+
+
+## Resources
+1. Link for github
+2. Link for google
 
 
 [^1]: (That is to refer to a rate)
