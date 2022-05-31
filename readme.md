@@ -50,3 +50,9 @@ print("Hello")
 ![my capture](./images/2021-03-14%2018.48.34.jpg)
 
 For more info, visit [Github Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax ) website
+
+<input type="button" value="click me">
+
+People can be skeptical of online degrees, and we get it: they often lack quality instruction, have high dropout rates [^1], and come with crippling tuition costs. At best, online education is innocuous, and at worst it preys on student hopes without delivering a positive outcome.
+
+[^1]: (That is to refer to a rate)
