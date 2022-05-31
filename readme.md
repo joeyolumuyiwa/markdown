@@ -6,6 +6,9 @@
 ##### Headline 5
 ###### Headline 6
 
+## Project Content
+- [Supported OS] (Supported-System)
+
 This is just a normal **bold text**
 
 use * * to  make text bold.
@@ -61,9 +64,10 @@ People can be skeptical of online degrees, and we get it: they often lack qualit
 |Sudo          |Linux          |Windows     | 
 |NPM           |Nodejs         |Code        |
 
+## Supported System
 This Project supports :
 - [x] Windows
--[ x] Linux
+- [x] Linux
 - [ ] iOS
 
 
