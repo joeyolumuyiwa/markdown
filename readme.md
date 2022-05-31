@@ -61,10 +61,10 @@ People can be skeptical of online degrees, and we get it: they often lack qualit
 |Sudo          |Linux          |Windows     | 
 |NPM           |Nodejs         |Code        |
 
-This Project supports:
--[x] Windows
--[x] Linux
--[ ] iOS
+This Project supports :
+- [x] Windows
+-[ x] Linux
+- [ ] iOS
 
 
 [^1]: (That is to refer to a rate)
