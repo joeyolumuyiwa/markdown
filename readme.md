@@ -7,7 +7,7 @@
 ###### Headline 6
 
 ## Project Content
-- [Supported OS] (#Supported-System)
+- [Supported OS](#Supported-System)
 
 This is just a normal **bold text**
 
